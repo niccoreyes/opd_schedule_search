@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "serviceName": "IM General",
+      "dayOfWeek": "Monday - Saturday",
+      "startTime": "8:00 AM",
+      "endTime": "12:00 PM"
+    },
+    {
+      "serviceName": "Cardiology",
+      "dayOfWeek": "Monday, Wednesday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM",
+      "notes": "Mon: Heart failure, CAD; Wed: Valvular disease"
+    },
+    {
+      "serviceName": "CV Clearance",
+      "dayOfWeek": "Monday - Friday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "ID Infectious Disease",
+      "dayOfWeek": "Monday, Friday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "Rheumatology",
+      "dayOfWeek": "Monday, Wednesday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "Endocrinology",
+      "dayOfWeek": "Tuesday, Wednesday, Friday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "Pulmonology",
+      "dayOfWeek": "Tuesday, Friday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "GI Gastroenterology",
+      "dayOfWeek": "Wednesday, Friday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    },
+    {
+      "serviceName": "Nephrology",
+      "dayOfWeek": "Wednesda, Thursday",
+      "startTime": "1:00 PM",
+      "endTime": "3:00 PM"
+    }
+  ]
+}
